@@ -63,7 +63,7 @@ export default function HeroSection() {
           <Zoom in={shouldShow}>
             <Grid item sm={8}>
               <Typography component="h1" variant="h3">
-                Hi, my name is Stam!
+                Hi, welcome to my Uber clone webapp!
               </Typography>
               <Typography variant="h5">
                 I build websites, web applications and responsive user

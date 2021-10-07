@@ -11,13 +11,13 @@ export default function CardComp() {
             <CardContent>
             <Typography gutterBottom variant="h4" component="div">
                
-               Order a gardener
+               Order a driver
 
             </Typography>
 
             <Typography gutterBottom variant="h6" component="div">
                
-               Get help from local gardeners and help improve the environment too!
+               Get a lift
 
             </Typography>
             </CardContent>

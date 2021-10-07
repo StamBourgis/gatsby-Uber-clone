@@ -5,7 +5,7 @@ import React from 'react'
 const useStyles = makeStyles({
 
 section: {
-    height: "90vh", 
+    height: "4vh", 
     zindex: 4
 }
 }
